@@ -1,0 +1,26 @@
+var class_login_form =
+[
+    [ "getAccountDetails", "class_login_form.html#ae4382f84ec3b01893f32fa1b01ad6aca", null ],
+    [ "getEmployeeData", "class_login_form.html#a00bef631baa5d8990621a3ad505ef5f0", null ],
+    [ "getEmployeeDetails", "class_login_form.html#a84d05423a81ce11c594e20fd60f2ea97", null ],
+    [ "getFailedLoginCount", "class_login_form.html#a55b9587cddaacfba78a087dbf8d8d975", null ],
+    [ "isGoogleLoginEnabled", "class_login_form.html#a73abe40d4bba89a392bb2f65dc7126e5", null ],
+    [ "isMSLoginEnabled", "class_login_form.html#aa3788765f2ae30b6c4f665ec0cd98127", null ],
+    [ "isSecure", "class_login_form.html#aa1f2844d6af0ec0d32e43bc58e9ad1ba", null ],
+    [ "login", "class_login_form.html#a0617244db9f7caceb25c198b39523b76", null ],
+    [ "loginMyOnline", "class_login_form.html#a2a85248d084b4aee4f1b5862b6efe0e8", null ],
+    [ "resetPassword", "class_login_form.html#ac9fc2fc4b8827e5f1c510c118900ec9c", null ],
+    [ "saveAccountSettings", "class_login_form.html#ad15976b4cddbbbb32c6afd9e1b7d2d2c", null ],
+    [ "sendPasswordResetMail", "class_login_form.html#aac435588897474970c040f4833123084", null ],
+    [ "sendWarningEmailToUser", "class_login_form.html#ae200c5ca089f4a5c786347518968303d", null ],
+    [ "setPasswordResetDatabaseToken", "class_login_form.html#a1dd45680935d5be9fe1c2c98a0af18c0", null ],
+    [ "setServerState", "class_login_form.html#accb55b09011a9238102b595c7c94919d", null ],
+    [ "setSessionIdleLimit", "class_login_form.html#a4ef9b20f4b6baa720e8a922559710add", null ],
+    [ "setSuccessfulLoginIntoSession", "class_login_form.html#a16f183a1ebd0083cd110f2829ffb0138", null ],
+    [ "signInGooglePlus", "class_login_form.html#a047eec1f83805ecfcf63cfa9855e97dc", null ],
+    [ "signInGooglePlusNew", "class_login_form.html#ac39a45fc9b9d7e99392994fc5783d67d", null ],
+    [ "signinMicrosoft", "class_login_form.html#af465ddd6b481417753d3aefce3b81a73", null ],
+    [ "validateAndSendResetPwdLink", "class_login_form.html#a2a7b20b73e36cca884ccf37dc98cd86c", null ],
+    [ "validateCurrentPassword", "class_login_form.html#a359ad70694e4d26bae9ff34b321711cc", null ],
+    [ "verifyPasswordRequest", "class_login_form.html#a69bfeaf571af13cfefbef32cdffea057", null ]
+];
